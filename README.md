@@ -37,7 +37,7 @@ The game consists of three progressive levels:
 
 ## 🛠️ Requirements (运行环境)
 To run this game, ensure the following files are in your MATLAB Current Folder:
-* `Project_Code.m` (The main script)
+* `wuzi_Final.m` (The main script)
 * `simpleGameEngine.m` (The engine script)
 * `Gomoku.png` (Sprite sheet)
 * `Graphics_Preview.pdf` (Project documentation)
